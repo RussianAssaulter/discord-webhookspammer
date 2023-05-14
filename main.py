@@ -7,29 +7,7 @@ import time
 webhook = input("Webhook: \n")
 message = input(("Message: \n"))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 os.system("cls & title [Webhook Spammer] - By: Russian")
-
 
 while True:
      time.sleep(1)
